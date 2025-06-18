@@ -1,6 +1,6 @@
 (
     output: "all",
-    source: Path("/home/carl/Pictures/Wallpaper/Cowboy Beebop"),
+    source: Path("/usr/share/backgrounds/cosmic/A_stormy_stellar_nursery_esa_379309.jpg"),
     filter_by_theme: false,
     rotation_frequency: 300,
     filter_method: Lanczos,
