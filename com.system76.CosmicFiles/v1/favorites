@@ -5,4 +5,5 @@
     Music,
     Pictures,
     Videos,
+    Path("/usr/share/backgrounds/demo/"),
 ]
