@@ -1,0 +1,64 @@
+{
+    "GPU-cfbc8990-c195-e211-4490-f86534f8558e": (
+        gpu_chart: true,
+        gpu_label: false,
+        gpu_kind: Ring,
+        gpu_colors: (
+            color1: (
+                red: 43,
+                green: 43,
+                blue: 43,
+                alpha: 255,
+            ),
+            color2: (
+                red: 255,
+                green: 255,
+                blue: 255,
+                alpha: 255,
+            ),
+            color3: (
+                red: 85,
+                green: 85,
+                blue: 85,
+                alpha: 255,
+            ),
+            color4: (
+                red: 0,
+                green: 255,
+                blue: 0,
+                alpha: 255,
+            ),
+        ),
+        vram_chart: true,
+        vram_label: false,
+        vram_kind: Ring,
+        vram_colors: (
+            color1: (
+                red: 43,
+                green: 43,
+                blue: 43,
+                alpha: 255,
+            ),
+            color2: (
+                red: 255,
+                green: 255,
+                blue: 255,
+                alpha: 255,
+            ),
+            color3: (
+                red: 85,
+                green: 85,
+                blue: 85,
+                alpha: 255,
+            ),
+            color4: (
+                red: 0,
+                green: 255,
+                blue: 0,
+                alpha: 255,
+            ),
+        ),
+        pause_on_battery: true,
+        stack_labels: true,
+    ),
+}
