@@ -1,0 +1,13 @@
+{
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "p",
+    ): Minimize,
+    (
+        modifiers: [
+            Super,
+        ],
+    ): System(Launcher),
+}
