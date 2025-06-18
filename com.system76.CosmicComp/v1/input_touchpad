@@ -3,7 +3,7 @@
     click_method: Some(Clickfinger),
     scroll_config: Some((
         method: Some(TwoFinger),
-        natural_scroll: None,
+        natural_scroll: Some(false),
         scroll_button: None,
         scroll_factor: None,
     )),
