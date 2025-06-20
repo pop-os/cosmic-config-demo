@@ -13,8 +13,8 @@
     ),
     pressed: (
         red: 0.61110765,
-        green: 0.52364236,
-        blue: 0.4768676,
+        green: 0.5236424,
+        blue: 0.4768675,
         alpha: 1.0,
     ),
     selected: (
@@ -24,15 +24,15 @@
         alpha: 1.0,
     ),
     selected_text: (
-        red: 0.29677862,
-        green: 0.345816,
-        blue: 0.45774496,
+        red: 0.015686274,
+        green: 0.17254901,
+        blue: 0.38431373,
         alpha: 1.0,
     ),
     focus: (
-        red: 0.29677862,
-        green: 0.345816,
-        blue: 0.45774496,
+        red: 0.015686274,
+        green: 0.17254901,
+        blue: 0.38431373,
         alpha: 1.0,
     ),
     divider: (
