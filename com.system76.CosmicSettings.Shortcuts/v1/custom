@@ -1,0 +1,17 @@
+{
+    (
+        modifiers: [
+            Super,
+            Alt,
+        ],
+        key: "t",
+    ): Spawn("cosmic-edit"),
+    (
+        modifiers: [
+            Super,
+            Alt,
+        ],
+        key: "e",
+        description: Some("kicad"),
+    ): Spawn("flatpak run org.kicad.KiCad//stable"),
+}
