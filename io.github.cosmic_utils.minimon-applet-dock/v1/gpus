@@ -1,0 +1,100 @@
+{
+    "04edb36a14afdae3a2923edbb8219b3859b2810fff86d1417b02e094ad33c231": (
+        usage: (
+            chart: false,
+            label: true,
+            kind: Ring,
+            colors: (
+                color1: (
+                    red: 43,
+                    green: 43,
+                    blue: 43,
+                    alpha: 255,
+                ),
+                color2: (
+                    red: 255,
+                    green: 255,
+                    blue: 255,
+                    alpha: 255,
+                ),
+                color3: (
+                    red: 85,
+                    green: 85,
+                    blue: 85,
+                    alpha: 255,
+                ),
+                color4: (
+                    red: 255,
+                    green: 95,
+                    blue: 31,
+                    alpha: 255,
+                ),
+            ),
+        ),
+        vram: (
+            chart: false,
+            label: true,
+            kind: Ring,
+            colors: (
+                color1: (
+                    red: 43,
+                    green: 43,
+                    blue: 43,
+                    alpha: 255,
+                ),
+                color2: (
+                    red: 255,
+                    green: 255,
+                    blue: 255,
+                    alpha: 255,
+                ),
+                color3: (
+                    red: 85,
+                    green: 85,
+                    blue: 85,
+                    alpha: 255,
+                ),
+                color4: (
+                    red: 0,
+                    green: 255,
+                    blue: 0,
+                    alpha: 255,
+                ),
+            ),
+        ),
+        temp: (
+            chart: false,
+            label: true,
+            kind: Ring,
+            colors: (
+                color1: (
+                    red: 43,
+                    green: 43,
+                    blue: 43,
+                    alpha: 255,
+                ),
+                color2: (
+                    red: 255,
+                    green: 255,
+                    blue: 255,
+                    alpha: 255,
+                ),
+                color3: (
+                    red: 85,
+                    green: 85,
+                    blue: 85,
+                    alpha: 255,
+                ),
+                color4: (
+                    red: 255,
+                    green: 95,
+                    blue: 31,
+                    alpha: 255,
+                ),
+            ),
+            unit: Celcius,
+        ),
+        pause_on_battery: true,
+        stack_labels: true,
+    ),
+}
