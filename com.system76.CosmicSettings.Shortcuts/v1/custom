@@ -3,5 +3,19 @@
         modifiers: [
             Super,
         ],
+        key: "e",
+        description: Some("Emacs"),
+    ): Spawn("emacs"),
+    (
+        modifiers: [
+            Ctrl,
+        ],
+        key: "Print",
+        description: Some("Flameshot"),
+    ): Spawn("flatpak run org.flameshot.Flameshot gui"),
+    (
+        modifiers: [
+            Super,
+        ],
     ): System(Launcher),
 }

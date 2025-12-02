@@ -1,0 +1,26 @@
+[
+    (
+        name: "Application opened",
+        kind: System,
+        path: "/home/levi/.var/app/dev.edfloreshz.CosmicTweaks/data/dev.edfloreshz.CosmicTweaks/snapshots/Application opened.ron",
+        created: "2025-07-29T15:12:11.502415784",
+    ),
+    (
+        name: "Application opened",
+        kind: System,
+        path: "/home/levi/.var/app/dev.edfloreshz.CosmicTweaks/data/dev.edfloreshz.CosmicTweaks/snapshots/Application opened.ron",
+        created: "2025-06-17T15:36:27.785815648",
+    ),
+    (
+        name: "Application opened",
+        kind: System,
+        path: "/home/levi/.var/app/dev.edfloreshz.CosmicTweaks/data/dev.edfloreshz.CosmicTweaks/snapshots/Application opened.ron",
+        created: "2025-02-19T21:28:47.332858765",
+    ),
+    (
+        name: "Application opened",
+        kind: System,
+        path: "/home/levi/.var/app/dev.edfloreshz.CosmicTweaks/data/dev.edfloreshz.CosmicTweaks/snapshots/Application opened.ron",
+        created: "2025-02-05T22:32:32.410715617",
+    ),
+]

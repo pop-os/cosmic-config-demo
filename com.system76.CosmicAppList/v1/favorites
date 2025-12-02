@@ -4,7 +4,12 @@
     "com.system76.CosmicTerm",
     "Emacs",
     "com.system76.CosmicEdit",
-    "com.spotify.Client",
+    "org.gnome.meld",
     "org.gnome.Nautilus",
     "com.system76.CosmicScreenshot",
+    "org.inkscape.Inkscape",
+    "org.gimp.GIMP",
+    "com.spotify.Client",
+    "steam",
+    "Half-Life 2",
 ]
