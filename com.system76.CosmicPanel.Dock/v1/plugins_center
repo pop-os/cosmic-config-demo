@@ -1,3 +1,4 @@
 Some([
-    "io.github.cosmic_utils.minimon-applet",
+    "com.system76.CosmicAppList",
+    "com.system76.CosmicAppletMinimize",
 ])

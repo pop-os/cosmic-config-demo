@@ -1,7 +1,6 @@
 (
     state: Enabled,
     click_method: Some(Clickfinger),
-    disable_while_typing: Some(false),
     scroll_config: Some((
         method: Some(TwoFinger),
         natural_scroll: Some(false),

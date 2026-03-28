@@ -1,0 +1,17 @@
+{
+    (
+        modifiers: [],
+        key: "XF86AudioRaiseVolume",
+    ): System(VolumeRaise),
+    (
+        modifiers: [],
+        key: "XF86AudioLowerVolume",
+    ): System(VolumeLower),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "BackSpace",
+        description: Some("Change Background"),
+    ): Spawn("cosmic-background /home/jeremy/Pictures/Backgrounds"),
+}

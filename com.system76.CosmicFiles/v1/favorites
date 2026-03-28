@@ -1,0 +1,10 @@
+[
+    Home,
+    Documents,
+    Downloads,
+    Music,
+    Pictures,
+    Videos,
+    Path("/home/jeremy/Projects"),
+    Path("/home/jeremy/CosmicSync"),
+]
